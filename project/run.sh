@@ -1,0 +1,1 @@
+sudo python3 my/project/pixel2pixel/main.py --output_path /B/my2/tid2013/12/ --dataset_path /home/l/my/dataset2/tid2013/12/fr_802/ --cuda 1 --testdataset_path /home/l/my/dataset2/TID_2013/12/  --test_images_path /home/l/my/dataset2/tid2013/12/
